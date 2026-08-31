@@ -1,0 +1,31 @@
+# Zoologia de Invertebrados II
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Estudo morfológico, anatômico, fisiológico, ecológico e evolutivo dos filos protostômios coelomados e deuterostômios invertebrados: Mollusca, Annelida, Arthropoda e Echinodermata.
+
+## 2. Conteúdo Programático por Filo
+
+### 2.1. Filo Mollusca
+* Plano corporal básico: Cabeça-pé, massa visceral e manto.
+* Classes principais: Gastropoda, Bivalvia, Cephalopoda.
+* Sistema circulatório (aberto/fechado), radula e importância econômica/ecológica.
+
+### 2.2. Filo Annelida
+* Metameria e celoma.
+* Classes/Grupos: Polychaeta, Oligochaeta (minhocas), Hirudinea (sanguessugas).
+* Fisiologia respiratória, digestiva e reprodutiva (clitelo).
+
+### 2.3. Filo Arthropoda
+* Exoesqueleto de quitina, ecdise (muda) e metamerismo especializado (tagmose).
+* Subfilos: Crustacea, Hexapoda (Insecta), Chelicerata (Arachnida) e Myriapoda.
+* Tipos de desenvolvimento nos insetos: Ametábolo, Hemimetábolo e Holometábolo.
+
+### 2.4. Filo Echinodermata
+* Simetria pentarradial secundária e endoesqueleto calcário.
+* Sistema hidrovascular (ambulacral).
+* Classes: Asteroidea, Echinoidea, Holothuroidea, Ophiuroidea, Crinoidea.

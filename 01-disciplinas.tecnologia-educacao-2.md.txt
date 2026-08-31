@@ -1,0 +1,20 @@
+# Tecnologia Aplicada à Educação II
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Adoção das Tecnologias Digitais da Informação e Comunicação (TDIC) no contexto educacional. Desenvolvimento de objetos virtuais de aprendizagem, metodologias ativas mediadas por tecnologia, gamificação e ensino híbrido aplicados às Ciências e Biologia.
+
+## 2. Ferramentas Digitais de Referência
+* **Gamificação e Interatividade:** Kahoot, Mentimeter, Quizizz.
+* **Design e Produção Multimídia:** Canva (infográficos, apresentações, mapas mentais), CapCut/Audacity (edição de vídeo/podcast educativo).
+* **Ambientes de Aprendizagem e Simulação:**
+  * Google Classroom / Moodle.
+  * PhET Interactive Simulations (simulações virtuais de seleção natural, expressão gênica, escala microscópica).
+
+## 3. Integração Pedagógica
+* Desenvolvimento de Objetos Virtuais de Aprendizagem (OVAs) acessíveis.
+* Metodologias ativas: Sala de Aula Invertida (*Flipped Classroom*), Rotação por Estações e Aprendizagem Baseada em Problemas (PBL) com apoio digital.

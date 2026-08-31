@@ -1,0 +1,20 @@
+# Microbiologia
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Estudo da morfologia, fisiologia, genética e taxonomia dos microrganismos (Bactérias, Vírus, Fungos e Protozoários). Compreensão do papel dos microrganismos nos ecossistemas, biotecnologia e processos patológicos.
+
+## 2. Conteúdo Programático
+* **Estrutura Celular Procariótica:** Parede celular (Gram-positivas vs. Gram-negativas), membrana, flagelos, plasmídeos e endósporos.
+* **Fisiologia e Crescimento Microbiano:** Curva de crescimento (Lag, Log, Estacionária, Morte), fatores ambientais (pH, temperatura, oxigênio).
+* **Controle Microbiano:** Esterilização (autoclavação, calor seco), desinfecção, antissepsia e mecanismos de ação de antibióticos.
+* **Virologia Básica:** Estrutura viral, ciclos lítico e lisogênico, arboviroses e viroses de importância em saúde pública.
+
+## 3. Práticas de Laboratório e Baixo Custo
+* **Técnicas Assépticas e Semeadura:** Meios de cultura simples e seletivos.
+* **Coloração de Gram:** Princípio bioquímico da fixação do cristal violeta e lugol.
+* **Experimentos de Baixo Custo para Escola Pública:** Cultivo de fungos e bactérias em meio artesanal com ágar e caldo de carne em recipientes descartáveis.

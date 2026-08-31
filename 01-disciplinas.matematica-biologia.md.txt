@@ -1,0 +1,31 @@
+# Matemática Aplicada à Biologia
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Ferramentas matemáticas e estatísticas aplicadas à interpretação de fenômenos biológicos, processamento de dados experimentais, modelagem populacional e cálculos de laboratório.
+
+## 2. Tópicos Centrais e Fórmulas
+
+### 2.1. Preparo de Soluções e Diluições
+* Regra de três, razão, proporção e conversão de unidades.
+* **Fórmula de Diluição:**
+  $$C_1 \cdot V_1 = C_2 \cdot V_2$$
+
+### 2.2. Modelos de Crescimento
+* **Crescimento Exponencial Poblacional:**
+  $$N(t) = N_0 \cdot e^{rt}$$
+  * $N(t)$: População no tempo $t$
+  * $N_0$: População inicial
+  * $r$: Taxa intrínseca de crescimento
+  * $t$: Tempo
+
+### 2.3. Introdução à Bioestatística e Genética
+* **Medidas de Tendência Central e Dispersão:** Média ($\bar{x}$), Mediana, Moda, Variância ($s^2$) e Desvio-Padrão ($s$).
+* **Probabilidade Mendelia e Teste de Aderência:**
+  $$\chi^2 = \sum \frac{(O - E)^2}{E}$$
+  * $O$: Frequência observada
+  * $E$: Frequência esperada

@@ -1,0 +1,15 @@
+# Prática como Componente Curricular II (PCC II)
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Articulação prática entre as disciplinas teóricas do 2º Período e o exercício docente na Educação Básica. Desenvolvimento de metodologias ativas, materiais didáticos táteis e sequências de ensino adaptadas à realidade escolar local.
+
+## 2. Eixos de Trabalho
+* **Desenvolvimento de Recursos Didáticos:** Criação de modelos anatômicos 3D (células bacterianas, estruturas florais, morfologia de invertebrados) usando materiais sustentáveis e de baixo custo.
+* **Transposição Didática Aplicada:** Adaptação do conhecimento acadêmico (ex.: classificação APG ou química de biomoléculas) para linguagem acessível ao Ensino Fundamental II e Médio.
+* **Inclusão e Acessibilidade:** Desenvolvimento de materiais adaptados para estudantes com deficiência visual, auditiva ou neurodivergências no ensino de Biologia.
+* **Microregências Simuladas:** Planejamento e execução de aulas práticas experimentais para os pares do curso, com avaliação crítica entre colegas.

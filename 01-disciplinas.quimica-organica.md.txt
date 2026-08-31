@@ -1,0 +1,22 @@
+# Química Orgânica
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Estudo da estrutura, propriedades físicas/químicas e reatividade dos compostos de carbono. Compreensão das funções orgânicas e sua aplicação no entendimento do metabolismo e biomoléculas.
+
+## 2. Conteúdo Programático
+* **Estrutura e Ligação:** Hibridização do carbono ($sp^3$, $sp^2$, $sp$), polaridade de ligações e forças intermoleculares.
+* **Funções Orgânicas e Nomenclatura IUPAC:**
+  * Hidrocarbonetos (alcanos, alquenos, alquinos, aromáticos).
+  * Funções Oxigenadas: Álcoois, fenóis, éteres, aldeídos, cetonas, ácidos carboxílicos e ésteres.
+  * Funções Nitrogenadas: Aminas, amidas e nitrilas.
+* **Isomeria:** Isomeria plana (cadeia, posição, função, metameria) e estereoisomeria (enantiômeros, diastereoisômeros, atividade óptica).
+
+## 3. Interface com a Biologia (Biomoléculas)
+* Estrutura química de Carboidratos (monossacarídeos, dissacarídeos e polissacarídeos).
+* Estrutura de Lipídios (ácidos graxos, triglicerídeos, fosfolipídios).
+* Estrutura de Aminoácidos, ligação peptídica e organização proteica.

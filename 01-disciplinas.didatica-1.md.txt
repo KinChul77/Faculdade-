@@ -1,0 +1,22 @@
+# Didática I
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Ementa e Objetivos
+Estudo da evolução histórica da Didática e sua relação com as teorias educacionais. Compreensão do processo de ensino-aprendizagem, mediação pedagógica, relação professor-aluno e o papel da Didática na formação docente crítica e reflexiva.
+
+## 2. Conteúdo Programático Principal
+* **Evolução Histórica:** Didática Tradicional, Escolanovista, Tecnicista, Crítica e Contemporânea.
+* **Planejamento Escolar:**
+  * Plano de Ensino (semestral/anual)
+  * Plano de Curso
+  * Plano de Aula (estrturação de objetivos, conteúdos, metodologias e recursos)
+* **Objetivos Pedagógicos:** Formulação de objetivos gerais e específicos (Domínio cognitivo, afetivo e psicomotor).
+* **Avaliação da Aprendizagem:** Funções diagnóstica, formativa e somativa; instrumentos de avaliação no ensino de Ciências.
+
+## 3. Aplicação e Transposição Didática em Biologia
+* Elaboração de Sequências Didáticas (SD) alinhadas às competências da BNCC para Ensino Fundamental II (Ciências) e Ensino Médio (Biologia).
+* Estratégias para superação do ensino memorístico, promovendo a alfabetização científica e a investigação.

@@ -1,0 +1,27 @@
+# Morfologia e Sistemática das Angiospermas
+
+**Curso:** Licenciatura em Ciências Biológicas — 2º Período  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+**Docente Provável:** Dr. Walnir Gomes Ferreira Júnior  
+
+---
+
+## 1. Ementa e Objetivos
+Estudo organográfico, anatômico e reprodutivo das angiospermas (Magnoliophyta). Princípios de taxonomia vegetal, classificação botânica segundo o sistema APG (*Angiosperm Phylogeny Group*), identificação de famílias de importância ecológica e econômica e metodologias de amostragem.
+
+## 2. Conteúdo Programático
+* **Organografia Vegetal:**
+  * **Raiz:** Tipos (axial, fasciculada, adventícia) e adaptações (pneumatóforos, haustórios).
+  * **Caule:** Tipos morfológicos (tronco, haste, estipe, colmo, tubérculo, rizoma, bulbo).
+  * **Folha:** Filotaxia, venação, modificações foliares (espinhos, gavinhas, brácteas).
+  * **Flor:** Verticilos florais, simetria, reprodução, inflorescências e síndromes de polinização (zoofilia, anemofilia).
+  * **Fruto e Semente:** Classificação dos frutos (secos, carnosos, deiscentes, indeiscentes) e dispersão.
+
+* **Sistemática Vegetal:**
+  * Filogenia e diferenciação entre Monocotiledôneas e Eudicotiledôneas.
+  * Uso de chaves dicotômicas de identificação.
+  * Principais Famílias: Fabaceae, Poaceae, Asteraceae, Solanaceae, Orchidaceae, Malvaceae, Rubiaceae.
+
+## 3. Técnicas Práticas
+* Confecção e herborização de exsicatas.
+* Montagem de coleção botânica didática.

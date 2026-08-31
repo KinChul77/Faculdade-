@@ -1,0 +1,31 @@
+# Diretrizes e Instruções do PIBID
+
+**Programa:** Programa Institucional de Bolsa de Iniciação à Docência (PIBID / CAPES)  
+**Instituição:** IFSULDEMINAS – Campus Machado  
+
+---
+
+## 1. Diretrizes de Redação dos Relatórios Semanal
+* **Foco:** Registro das vivências docentes reais na escola parceira.
+* **Estilo:** Directo, conciso, reflexivo, escrito em **1ª pessoa do singular**.
+* **Tamanho:** Máximo de 1 página (estrutura enxuta).
+* **Formatos de Arquivo:** Submissão em texto simples ou conforme modelo estabelecido pelo coordenador de área.
+
+## 2. Modelo de Estrutura Obrigatória
+
+```markdown
+# RELATÓRIO SEMANAL DE ATIVIDADES - PIBID
+
+- **Data:** DD/MM/AAAA
+- **Escola Parceira:** [Nome da Escola]
+- **Turma / Ano:** [Ex.: 8º Ano EF / 1º Ano EM]
+- **Tema / Conteúdo:** [Conteúdo trabalhado]
+
+1. **Atividade Desenvolvida:**
+[Descrição objetiva em 3-5 linhas do que foi realizado na semana: regência, apoio ao professor supervisor, observação, preparação de material, aplicação de jogo.]
+
+2. **Participação dos Alunos:**
+[Breve resumo em 2-3 linhas sobre a engajamento, dúvidas frequentes, aceitação da proposta ou dificuldades percebidas na turma.]
+
+3. **Reflexão da Semana:**
+[Texto em 1ª pessoa de 2 a 4 linhas articulando a prática com o aprendizado da profissão docente, identificando pontos positivos, desafios e ajustes para a próxima ação.]

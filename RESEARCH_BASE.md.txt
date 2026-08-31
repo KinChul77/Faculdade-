@@ -1,0 +1,61 @@
+## 1. PROTOCOLO DE ATUAÇÃO E BUSCA DO GEM
+
+Ao executar pesquisas complexas, levantamentos bibliográficos ou fundamentação teórica para os trabalhos do 2º Período e do PIBID, o Gem deve obedecer rigorosamente às seguintes diretrizes:
+
+1. **Hierarquia de Fontes:** Priorizar periódicos revisados por pares, teses/dissertações de universidades públicas brasileiras, portais oficiais (CAPES, SciELO, BDTD, Gov.br) e bancos de dados taxonômicos reconhecidos.
+2. **Formatação de Referências:** Apresentar citações e referências no padrão ABNT (NBR 6023) apenas quando o usuário solicitar explicitamente levantamento bibliográfico ou trabalho acadêmico formal.
+3. **Filtro Temático do 2º Período:** Cruzar qualquer busca geral com as ementas e contextos do curso (Didática, TAED II, Matemática Aplicada, Microbiologia, Botânica/Angiospermas, Química Orgânica, Invertebrados II, PCC II).
+
+---
+
+## 2. DIRETÓRIO DE BASES DE DADOS OFICIAIS
+
+### 2.1. Portais Multidisciplinares e Nacionais
+- **Portal de Periódicos CAPES (Acesso via CAFe/IFSULDEMINAS):** Consulta a bases internacionais pagas e acervo nacional.
+- **SciELO (Scientific Electronic Library Online):** Artigos em acesso aberto da América Latina em ensino, biologia e humanidades.
+- **BDTD (Biblioteca Digital Brasileira de Teses e Dissertações - IBICT):** Teses e dissertações nacionais para sequências didáticas e pesquisas aplicadas.
+- **Google Acadêmico:** Mapeamento geral de citações, localização de PDFs abertos e literatura cinzenta de valor acadêmico.
+
+### 2.2. Bases Especializadas por Disciplina
+
+| Disciplina / Área | Bases e Repositórios Indicados | Aplicação Prática |
+| :--- | :--- | :--- |
+| **Morfologia e Sistemática das Angiospermas** | Flora e Funga do Brasil (JBRJ), GBIF, APG IV | Identificação de famílias, chaves dicotômicas, distribuição geográfica. |
+| **Zoologia de Invertebrados II** | WoRMS, ZooBank, GBIF, Muséum national d'Histoire naturelle | Taxonomia atualizada, filogenia, checagem de nomenclatura de invertebrados. |
+| **Microbiologia & Química Orgânica** | PubMed / NCBI, PubChem, ChemSpider | Mecanismos microbianos, estruturas de biomoléculas, nomenclatura IUPAC. |
+| **Didática, TAED II, PCC II e PIBID** | ERIC, Redalyc, Revista Ensaio (UFMG), ABRAPEC | Sequências didáticas, Vygotsky, Kishimoto, TDIC, gamificação e relato de prática. |
+
+---
+
+## 3. SINTAXE E OPERADORES DE BUSCA AVANÇADA
+
+Para formular consultas de alta precisão nas bases de dados, utilize a seguinte lógica booleana e comandos sintáticos:
+
+- **Operadores Booleanos:**
+  - `AND`: Exige a presença de ambos os termos (`"Ensino de Biologia" AND "Vygotsky"`).
+  - `OR`: Aceita qualquer variação ou sinônimo (`"Angiospermas" OR "Magnoliophyta"`).
+  - `NOT` ou `-`: Exclui temas irrelevantes (`"Microbiologia" NOT "Médica"` ou `"Arthropoda" -crustacea`).
+- **Comandos de Filtro:**
+  - Asas Duplas `""`: Busca pela expressão exata (`"Sequência Didática"`, `"Coloração de Gram"`).
+  - Truncagem `*`: Captura variações da palavra (`Bio*` recupera Biologia, Bioestatística, Biodiversidade).
+  - Dominial `site:`: Restringe a busca a domínios acadêmicos/governamentais (`site:.edu.br` ou `site:.gov.br`).
+  - Formato `filetype:pdf`: Localiza diretamente artigos, teses e documentos completos em PDF.
+
+---
+
+## 4. MATRIZ DE STRINGS DE BUSCA PRONTAS PARA O 2º PERÍODO
+
+Sempre que solicitar pesquisas complexas ao Gem, utilize ou peça ao modelo para estruturar as buscas com base nos templates abaixo:
+
+```text
+# 1. Pesquisa em Ensino de Biologia e PIBID (Didática / PCC II / PIBID)
+("Ensino de Biologia" OR "Ensino de Ciências") AND ("Sequência Didática" OR "Jogo Didático") AND ("Vygotsky" OR "Kishimoto") AND "Escola Pública" filetype:pdf site:.edu.br
+
+# 2. Pesquisa em Microbiologia e Experimentos Práticos
+("Microbiologia" OR "Bactérias" OR "Fungos") AND ("Aulas Práticas" OR "Baixo Custo" OR "Meio de Cultura Artesanal") AND "Ensino" filetype:pdf site:.br
+
+# 3. Pesquisa em Zoologia de Invertebrados II e Prática Pedagógica
+("Zoologia de Invertebrados" OR "Arthropoda" OR "Mollusca" OR "Annelida") AND ("Transposição Didática" OR "Modelos Didáticos" OR "Inclusão") filetype:pdf site:.br
+
+# 4. Pesquisa em Morfologia e Sistemática Vegetal
+("Angiospermas" OR "Sistemática Vegetal" OR "APG") AND ("Chave Dicotômica" OR "Exsicata" OR "Herbário Didático") AND "Ensino de Botânica" filetype:pdf site:.br
